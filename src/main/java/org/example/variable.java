@@ -5,8 +5,8 @@ import java.sql.SQLOutput;
 
 public class variable {
     public static void main() {
-        int a = 10;
-        System.out.println(a);
+        int ad = 10;
+        System.out.println(ad);
 
         String b = "java";
         System.out.println(b);
